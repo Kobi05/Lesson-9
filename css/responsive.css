@@ -1,0 +1,237 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@media (max-width: 1370px) {
+	.nav,
+	.social-media {
+		display: none;
+	}
+	.burger {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+	}
+	.container-content {
+		padding-left: 0px;
+	}
+	.container-icon1 {
+
+		margin-bottom: 0px;
+		margin-right: 10px;
+	}
+	.section2-box {
+		width: 480px;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+	.container {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		width: 470px;
+	}
+	.box {
+		margin-right: 10px;
+	}
+	.div-read {
+	    top: 160px;
+	}
+}
+@media (max-width: 1332px) {
+	.box {
+		margin-bottom: 10px;
+	}
+}
+@media (max-width: 1173px) {
+	.container {
+		width: 360px;
+		-webkit-box-pack:center;
+		    -ms-flex-pack:center;
+		        justify-content:center;
+	}
+	.container-content {
+		-webkit-box-pack:center;
+		    -ms-flex-pack:center;
+		        justify-content:center;
+		margin-bottom: 10px;
+	}
+	.container-icon1 {
+		margin-bottom: 10px;
+	}
+	.div-read {
+	    top: 270px;
+	}
+	.section2-box {
+		width: 360px;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+	.section2-text,
+	.section2-p,
+	.section3-text {
+		text-align: center;
+	}
+}
+@media (max-width: 1024px) {
+	/*.nav,
+	.social-media {
+		display: none;
+	}
+	.burger {
+		display: flex;
+	}*/
+	.section2,
+	.section2-text,
+	.section3 {
+		-webkit-box-pack:center;
+		    -ms-flex-pack:center;
+		        justify-content:center;
+	}
+	.sec-boxes {
+		-webkit-box-pack: justify;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+	}
+	.section2-box {
+		margin-bottom: 10px;
+		margin-right: 10px;
+	}
+	.box {
+		margin-bottom: 10px;
+	}
+	.section2-text,
+	.section2-p,
+	.section3-text {
+		text-align: center;
+	}
+}
+@media (max-width: 952px) {
+	.sec2-boxes {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+}
+@media (max-width: 931px) {
+	.section2-box {
+		margin-bottom: 10px;
+		margin-right: 0px;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+	.sec4-title {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+	.section4 {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+        -ms-flex-line-pack:start;
+            align-content:flex-start;
+	}
+	.sec4-boxes {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+        -ms-flex-line-pack:start;
+            align-content:flex-start;
+        vertical-align: baseline;
+	}
+	.container {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		margin-bottom: 10px;
+	}
+}
+@media (max-width: 772px) {
+	.sec-boxes {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+}
+@media (max-width: 752px) {
+	.box {
+		margin-right: 0px;
+	}
+}
+/*@media (max-width: 752px) {
+	.box {
+		margin-right: 0px;
+	}
+}*/
+/*@media (max-width: 569px) {
+	.div-read {
+	    top: 310px;
+	}
+}
+@media (max-width: 562px) {
+	.div-read {
+	    top: 340px;
+	}
+}
+@media (max-width: 527px) {
+	.container-p {
+		margin-bottom: 10px;
+	}
+	.div-read {
+	    top: 360px;
+	}
+}
+@media (max-width: 504px) {
+	.container-p {
+		margin-bottom: 10px;
+	}
+	.div-read {
+	    top: 380px;
+	}
+}*/
+@media (max-width: 541px) {
+	.logo {
+		width: 90px;
+		margin-right: 40px;
+	}
+	.burger {
+		font-size: 24px;
+	}
+}
+@media (max-width: 480px) {
+	.container-p {
+		margin-bottom: 15px;
+	}
+	.div-read {
+	    top: 380px;
+	}
+}
+@media (max-width: 414px) {
+    .div-read {
+	    top: 450px;
+	}
+}
+@media (max-width: 375px) {
+	.div-read {
+	    top: 500px;
+	}
+}
+@media (max-width: 365px) {
+	.header {
+		padding: 10px 68px 10px 68px;
+	}
+}
